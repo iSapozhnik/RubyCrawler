@@ -1,1 +1,1 @@
-puts "Hello world index"
+puts "<h1>Hello world index</h1>"
